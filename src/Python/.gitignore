@@ -1,0 +1,5 @@
+build/
+dist/
+somoclu.egg-info/
+somoclu/src/
+
